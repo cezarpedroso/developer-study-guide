@@ -75,7 +75,7 @@ The correct answer is always written first. The app shuffles the four options wh
 | --- | --- |
 | `index.html` | The quiz app |
 | `README.md` | This file |
-| `CSharp_Field_Guide.pdf` |
+| `CSharp_Field_Guide.pdf` | The Study Guide |
 
 ## Study tips
 
